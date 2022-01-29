@@ -1,4 +1,9 @@
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+
+<ul>
+  <li> Item 1 </li>
+  <li> Item 2 </li>
+  <ul>
+    <li> Item 2a </li>
+    <li> Item 2b </li>
+  </ul>
+</ul>
